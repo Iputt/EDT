@@ -1,0 +1,4 @@
+#gitignore 忽略目录
+.gitognore
+.vscode
+/node_modules/
